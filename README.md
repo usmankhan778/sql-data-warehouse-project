@@ -110,4 +110,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **USMAN KHAN**. I’m Data analyst  a mission to share knowledge and make working with data enjoyable and engaging!
+Hi there! I'm **USMAN KHAN**. I’m student of  Data science   a mission to share knowledge and make working with data enjoyable and engaging!
